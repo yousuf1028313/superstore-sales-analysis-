@@ -14,6 +14,8 @@ sales or distribution issue rather than a product-specific problem.
 ## Tools Used
 Python, Pandas, Matplotlib, Google Colab
 
-## Recommendation
-Investigate the South region's sales team, pricing strategy, or 
-logistics before expanding product lines there.
+## Power BI Dashboard
+![Dashboard](dashboard.png)
+
+**Finding:** South was flat until 2016 then grew consistently. 
+Florida is the primary revenue driver inside the South region.
